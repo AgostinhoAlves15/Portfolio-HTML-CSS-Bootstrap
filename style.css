@@ -1,3 +1,27 @@
 body{
     background-color: black;
 }
+body {
+    background-color: #000;
+    color: white;
+    text-align: center;
+}
+.tech-card {
+    background-color: #5a250e;
+    border-radius: 10px;
+    padding: 20px;
+    transition: 0.3s;
+}
+.tech-card:hover {
+    transform: scale(1.05);
+}
+.tech-card img {
+    max-width: 50px;
+}
+.linha{
+    width: 800px;
+    height: 3px;
+    background-color: #ff4500;
+    border: none;
+    margin: auto;
+}
