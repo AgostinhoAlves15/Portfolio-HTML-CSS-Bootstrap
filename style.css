@@ -25,3 +25,27 @@ body {
     border: none;
     margin: auto;
 }
+.cor_input {
+    background-color: rgba(26, 26, 26, 0.9); 
+    border: none;
+    border-radius: 8px;
+    color: white;
+    padding: 1rem;
+    font-size: 1rem;
+}
+  
+.cor_input::placeholder {
+    color: #ccc;
+}
+  
+.cor_input:focus {
+    outline: none;
+    box-shadow: 0 0 0 2px #ff6600;
+}
+.botaoo{
+    background-color: #d35400;
+    border: none;
+    color: white;
+    border-radius: 10px;
+}
+  
