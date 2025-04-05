@@ -21,9 +21,19 @@ body {
 .linha{
     width: 800px;
     height: 3px;
-    background-color: #ffc107;
+    background-color: #ff6600;
     border: none;
     margin: auto;
+}
+.linha2{
+    width: 200px;
+    height: 3px;
+    background-color: #ff6600;
+    border: none;
+    margin: auto;
+}
+.cor_card{
+    background-color: rgba(30, 30, 30, 0.95);
 }
 .cor_input {
     background-color: rgba(26, 26, 26, 0.9); 
@@ -48,4 +58,18 @@ body {
     color: white;
     border-radius: 10px;
 }
+.card {
+    border-radius: 12px;
+    padding: 20px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  .card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 16px rgba(0,0,0,0.4);
+  }
+  
+  .titulo_card {
+    color: #ff6600;
+    font-weight: bold;
+  }
   
