@@ -1,5 +1,6 @@
 body{
     background-color: black;
+    padding-top: 80px;
 }
 body {
     background-color: #000;
@@ -19,7 +20,7 @@ body {
     max-width: 50px;
 }
 .linha{
-    width: 800px;
+    width: 80%;
     height: 3px;
     background-color: #ff6600;
     border: none;
