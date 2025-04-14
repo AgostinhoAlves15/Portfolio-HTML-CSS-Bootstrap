@@ -78,4 +78,14 @@ body {
 .ajuste2{
     padding-top: 100px;
 }
-  
+.logo-git{
+    background-color: white;
+    border-radius: 100%;
+}
+h1, h2, h3, p {
+    text-shadow: 1px 1px 4px #000;
+}
+.btn.btn-primary:hover {
+    transform: scale(1.05);
+    transition: 0.3s;
+}
