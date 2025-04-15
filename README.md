@@ -1,4 +1,4 @@
-![Preview do site](img/imagem%20do%20site.png)
+![Preview do site](img/imagem-do-site.png)
 
 # 🌐 **Portfólio - Agostinho Alves**
 
