@@ -1,24 +1,29 @@
 ![Preview do site](img/imagem%20do%20site.png)
 
-# 🌐 Portfólio - Agostinho Alves
+# 🌐 **Portfólio - Agostinho Alves**
 
-Bem-vindo ao meu portfólio pessoal!
-Este site foi desenvolvido com HTML, CSS e Bootstrap com o objetivo de apresentar minhas principais habilidades, projetos realizados e formas de contato profissional. Aqui você encontrará um resumo da minha trajetória na área de desenvolvimento web, com foco em entregar soluções criativas e funcionais
+Bem-vindo ao meu portfólio pessoal!  
+Este site foi desenvolvido com **HTML**, **CSS** e **Bootstrap**, com o objetivo de apresentar minhas principais habilidades, projetos realizados e formas de contato profissional. Aqui você encontrará um resumo da minha trajetória na área de desenvolvimento web, com foco em entregar soluções criativas e funcionais.
 
+---
 
-## 🧠 Sobre Mim
+## 🧠 **Sobre Mim**
 
-Sou um estudante de Informática no Ensino Médio Técnico, atualmente me aprofundando em desenvolvimento **Front-End** pelo programa **Amontada Valley**. Acredito que a tecnologia pode transformar ideias em soluções reais, e estou em busca de oportunidades para crescer como desenvolvedor web.
+Sou um estudante de **Informática** no Ensino Médio Técnico, atualmente me aprofundando em desenvolvimento **Front-End** pelo programa **Amontada Valley**. Acredito que a tecnologia pode transformar ideias em soluções reais, e estou em busca de oportunidades para crescer como desenvolvedor web.
 
-## 🛠️ Tecnologias Utilizadas
+---
 
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap 5
-- Git & GitHub
+## 🛠️ **Tecnologias Utilizadas**
 
-## 💼 Seções do Portfólio
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+- **Bootstrap 5**
+- **Git & GitHub**
+
+---
+
+## 💼 **Seções do Portfólio**
 
 - **Início:** Apresentação com nome, formação e objetivo.
 - **Sobre Mim:** Um breve resumo sobre minha história e motivações.
@@ -26,8 +31,11 @@ Sou um estudante de Informática no Ensino Médio Técnico, atualmente me aprofu
 - **Projetos:** Cards com projetos pessoais desenvolvidos.
 - **Contato:** Formulário para que você possa entrar em contato comigo.
 
-## 🚀 Como visualizar
+---
 
+## 🚀 **Como visualizar**
+
+[🌐 Portfólio - Agostinho Alves](https://agostinhoalves15.github.io/Portfolio-HTML-CSS-Bootstrap/)  
 Você pode clonar este repositório e abrir o `index.html` no seu navegador:
 
 ```bash
