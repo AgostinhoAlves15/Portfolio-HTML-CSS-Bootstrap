@@ -1,11 +1,8 @@
-body{
-    background-color: black;
-    padding-top: 80px;
-}
 body {
     background-color: #000;
     color: white;
     text-align: center;
+    padding-top: 80px;
 }
 .tech-card {
     background-color: #5a250e;
@@ -63,21 +60,18 @@ body {
     border-radius: 12px;
     padding: 20px;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
-  }
-  .card:hover {
+}
+.card:hover {
     transform: translateY(-5px);
     box-shadow: 0 6px 16px rgba(0,0,0,0.4);
-  }
+}
   
-  .titulo_card {
+.titulo_card {
     color: #ff6600;
     font-weight: bold;
-  }
+}
 .ajuste1{
     padding: 150px;
-}
-.ajuste2{
-    padding-top: 100px;
 }
 .logo-git{
     background-color: white;
